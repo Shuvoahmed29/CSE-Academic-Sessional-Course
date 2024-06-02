@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "663616529378",
+    "firebase_url": "https://foodon-91514-default-rtdb.firebaseio.com",
+    "project_id": "foodon-91514",
+    "storage_bucket": "foodon-91514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663616529378:android:329dd6a985f5a4af350fbb",
+        "android_client_info": {
+          "package_name": "com.food_on.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663616529378-85sufojilaji1v7agi5mgsam9u87idrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGId9v_eNX-rhZ3qo7Z7Nkc6Er7zQTEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663616529378-85sufojilaji1v7agi5mgsam9u87idrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663616529378:android:643eb94c7089de49350fbb",
+        "android_client_info": {
+          "package_name": "my.foodon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663616529378-423812vjjkujl7rj5svovjpb87kg491v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.foodon.app",
+            "certificate_hash": "223e5d3b40d8eaf1bcbedc14d46b483f9c61b5eb"
+          }
+        },
+        {
+          "client_id": "663616529378-85sufojilaji1v7agi5mgsam9u87idrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGId9v_eNX-rhZ3qo7Z7Nkc6Er7zQTEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663616529378-85sufojilaji1v7agi5mgsam9u87idrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

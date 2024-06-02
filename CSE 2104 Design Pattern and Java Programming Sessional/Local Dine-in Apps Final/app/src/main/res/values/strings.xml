@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Local Dine-in</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="or">OR</string>
+
+    <string-array name="State">
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Natore</item>
+        <item>Dhaka</item>
+        <item>Kushtia</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Vuna Khichuri</item>
+        <item>Morog Polao</item>
+        <item>Grill Chicken</item>
+        <item>Sabji Roti</item>
+        <item>Haleem</item>
+        <item>Puri bhaji</item>
+        <item>Seekh Kebab</item>
+        <item>Puchka</item>
+        <item>Aloo Paratha</item>
+        <item>Rasgulla</item>
+        <item>Mishti Doi</item>
+        <item>Ras Malai</item>
+        <item>Borhani</item>
+        <item>Jilapi</item>
+        <item>Shingara</item>
+        <item>Pitha</item>
+        <item>Kala Bhuna</item>
+        <item>Bharta</item>
+        <item>Biryani</item>
+        <item>Mughlai Paratha</item>
+        <item>Shemai</item>
+        <item>Dum Biryani</item>
+        <item>Porota</item>
+        <item>Jhalmuri</item>
+        <item>Samosa</item>
+        <item>Luchi</item>
+        <item>Falooda</item>
+        <item>Shorshe Ilish</item>
+        <item>Kacchi Biriyani</item>
+        <item>MBeef Kala Bhuna</item>
+        <item>Mix Vegetable</item>
+        <item>Bhuna Khichuri</item>
+        <item>Sheek Kebab with Naan</item>
+        <item>Beguni</item>
+        <item>Panta Ilish</item>
+        <item>Egg Curry</item>
+        <item>Machher Jhol</item>
+        <item>Egg Bhurji</item>
+        <item>Dum chicken</item>
+        <item>Chom Chom</item>
+        <item>Bhat (rice)</item>
+        <item>Dal (lentil soup)</item>
+        <item>Shemai</item>
+        <item>Lassi</item>
+        <item>Mutton Rezala </item>
+        <item>Baigun Bhaja</item>
+        <item>Payesh</item>
+        <item>Jilapi</item>
+        <item>Sondesh</item>
+        <item>Hyderabadi Biryni</item>
+    </string-array>
+</resources>
